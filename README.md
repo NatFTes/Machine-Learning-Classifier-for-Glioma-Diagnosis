@@ -30,7 +30,7 @@ Tasci, E., Camphausen, K., Krauze, A., & Zhuge, Y. (2022). Glioma Grading Clinic
 ## 📂 How to Use This Repository
 
 You can explore the full analysis, visualizations, and conclusions in the PDF document:  
-**[ML Classifier for Glioma Diagnosis](ML Classifier for Glioma Diagnosis.zip)**  
+**[ML Classifier for Glioma Diagnosis](https://github.com/NatFTes/Machine-Learning-Classifier-for-Glioma-Diagnosis/blob/main/ML%20Classifier%20for%20Glioma%20Diagnosis.zip)**  
 This version was exported directly from the original Jupyter Notebook using LaTeX.
 
 You may also browse the `/img` folder to preview the key plots separately and Random forest's branches used in the model.
